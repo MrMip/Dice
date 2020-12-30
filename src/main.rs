@@ -43,7 +43,8 @@ fn d6() {
 fn d66() {
     let x = rand::thread_rng().gen_range(1, 6);
     let y = rand::thread_rng().gen_range(1, 6);
-    println!("{}{}", x,y);
+    let z = x+y;
+    println!("{}", z);
 }
 
 fn d4() { 

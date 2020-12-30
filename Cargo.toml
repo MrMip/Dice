@@ -1,6 +1,6 @@
 [package]
 name = "Dice"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["MrMip <N/A>"]
 edition = "2018"
 
